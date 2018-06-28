@@ -9,7 +9,8 @@
       font-size:45px;
 
     }
-
+.pp{height: 50px;
+width: 470px;  }
 
 h3 { color: olivedrab;
     white-space: nowrap; 
@@ -19,10 +20,6 @@ h3 { color: olivedrab;
     text-overflow: clip;
     text-align: center;
     border: 3px solid green;
-}
-.pp {color:grey;
-  
-
 }
 
 .clll { background-color:grey;
